@@ -15,4 +15,3 @@ We decided to start collecting book information from [Goodreads API](https://www
 * [Soursh Ghaderi](https://github.com/SoroushGhaderi) ( :hammer: )
 
 * [Bahram Jannesar](https://github.com/BahramJannesar) ( :hammer: )
-.
